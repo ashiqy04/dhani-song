@@ -68,7 +68,7 @@ document.querySelector("#app").innerHTML = `
 
     <div class="content">
       <div class="glyph">${iconFlame()}</div>
-      <p class="eyebrow">A song crafted for</p>
+      <p class="eyebrow">A song crafted for my love</p>
       <h1 class="name">${escapeHtml(recipientName)}</h1>
       <div class="divider"><span class="line"></span><span class="dot"></span><span class="line right"></span></div>
     </div>
